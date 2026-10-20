@@ -1,0 +1,4 @@
+module CMLKEMNative {
+    header "CMLKEMNative.h"
+    export *
+}
